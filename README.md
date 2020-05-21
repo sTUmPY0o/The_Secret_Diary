@@ -6,7 +6,9 @@
 
 **#Requirements**
 
-- __Android device with minimum__ `Android version(4.3 Jelly Bean)`
+- Android device with minimum `Android version(4.3 Jelly Bean)`
+- Add Firebase `google-services.json` 
+
 
 **# Features**
 * `Data Encyption using (AES):Advanced Encryption Standard`
