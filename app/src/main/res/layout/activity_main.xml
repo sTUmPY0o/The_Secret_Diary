@@ -41,6 +41,11 @@
 
         </LinearLayout>
 
+             <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="top|center">
+                 
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/pro_img"
             android:layout_width="78dp"
@@ -51,7 +56,8 @@
             app:civ_border_width="2dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
-
+        
+            </LinearLayout>
 
     </LinearLayout>
 
