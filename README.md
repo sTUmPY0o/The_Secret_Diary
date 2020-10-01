@@ -24,13 +24,13 @@
 <br><br>
 **# What if your Phone gets lost ?**
 
-At that time `The_Secret_Diary` [https://service-b1a79.web.app/] website will help you.
+At that time `The_Secret_Diary` [https://service-b1a79.web.app/] Website will help you.
  
 You have to simply visit the site and follow this Steps:
 <img src="Images/step.JPG"  wiinstadth="100" height="50">
 <br>
 After that your key will be Successfully removed from the database.<br>
-Now if any other person tries to decrypt the text it will simply show a message `Key is removed`.
+Now if any other person tries to decrypt the text it will simply show a Message `Key is removed`.
 <br><br>
 
 **# Website Screenshort**
